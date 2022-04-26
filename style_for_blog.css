@@ -1,0 +1,68 @@
+# Lnguyen558.github.io
+
+
+        body{ background-color : rgb(204, 217, 213);
+            
+              background-image: url('image/background-wood2.jpg');
+              background-repeat: no-repeat;
+              background-attachment: fixed;
+              background-size: cover;
+            }
+        
+        
+        #page-title {
+            color: indianred;
+            text-align : center;
+            background-color: rgb(184, 186, 93);
+        }
+        
+        .page-photos{
+      
+            width: 200px;
+            height: 200px;
+    
+        }
+
+        .head-titles{
+            color: indianred;
+            font-family: monospace;
+            font-weight: bolder;
+            font-style: italic;
+            text-decoration-line: underline;
+    
+        }
+
+        .bay-valley{
+            
+            color: red;
+            font-family: monospace;
+            font-weight:400;
+            text-decoration-line: underline;
+            font-style: italic;
+        }
+
+
+        #vietnam{
+            color: greenyellow;
+            font-family: monospace;
+            font-weight:400;
+            text-decoration-line: underline;
+            font-style: italic;
+    
+        }
+
+        #coa{
+            color: greenyellow;
+            font-family: monospace;
+            font-weight:400;
+            text-decoration-line: underline;
+            font-style: italic;
+    
+        }
+
+            
+        .table-head{
+            color : indianred;
+                
+            }
+    
